@@ -1,0 +1,16 @@
+jupyter
+nltk
+spacy
+scipy
+numpy
+Pillow
+google
+pandas
+seaborn
+openpyxl
+geopandas
+matplotlib
+pytesseract
+prettytable
+scikit-learn
+opencv-python-headless
